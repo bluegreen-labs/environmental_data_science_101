@@ -1,6 +1,3 @@
-
-TODO: insert links to keywords, trunk, commit, branch etc (see wiki page)
-
 # Git & Github/Gitlab in project management
 
 [GIT - the stupid content tracker](https://github.com/git/git/blob/e83c5163316f89bfbde7d9ab23ca2e25604af290/README)
