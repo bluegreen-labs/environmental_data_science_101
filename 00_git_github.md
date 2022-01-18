@@ -296,6 +296,28 @@ Flagging files explicitly as "binary" is often wise when dealing with files whic
 *.csv -diff
 ```
 
+# R & RStudio git integration
+
+In the above workflow we relied on command line tools. Although it is valuable to know these commands in many work environments you will be able to rely on an Integrated Development Environment (IDE) such as [RStudio]() or [VSCode](). Both these interfaces provide a unified place in which you write code, visualize analysis (if applicable) and manage your git repository.
+
+RStudio, the IDE for the R statistical package, provides a good set of git features which will help you manage local projects. Below we'll show how to quickly create an R project which is git enabled. We'll show how to link this local repository to a remote github location, to finally upload the project to github in order to facilitate collaboration.
+
+## creating a git enabled R project
+
+TODO
+
+### adding your first files
+
+TODO
+
+### commiting changes
+
+TODO
+
+### linking a remote repository
+
+TODO
+
 # Github side benefits
 
 There is a whole set of not well advertized side benefits to owning and paying for a github account.
