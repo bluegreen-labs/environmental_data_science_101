@@ -304,19 +304,29 @@ RStudio, the IDE for the R statistical package, provides a good set of git featu
 
 ## creating a git enabled R project
 
-TODO
+```bash
+git init
+```
+or use the tick box when creating the project in the RStudio IDE!
 
 ### adding your first files
 
-TODO
+```bash
+git add README.md
+```
 
 ### commiting changes
 
-TODO
+```bash
+git commit -am "your commit message"
+```
 
 ### linking a remote repository
 
-TODO
+```bash
+git remote add origin https://github.com/your_account/your_repo.git
+git push -u origin master
+````
 
 # Github side benefits
 
